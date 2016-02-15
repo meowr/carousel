@@ -6,9 +6,11 @@ Time spent: 7 hours spent in total
 
 Completed user stories:
 
+**Intro**
 * [x] Required: Static photo tiles on the initial screen
 * [x] Optional: Photo tiles move with scrolling
-Sign In
+
+**Sign In**
 * [x] Required: Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
 Upon tapping the Sign In button.
 * [x] Required: If the username or password fields are empty, user sees an error alert.
@@ -21,17 +23,21 @@ Upon tapping the Sign In button.
 * [x] Optional: Tapping the Agree to Terms checkbox selects the checkbox.
 * [x] Optional: Tapping on Terms shows a webview with the terms.
 * [x] Optional: User is taken to the tutorial screens upon tapping the "Create a Dropbox" button.
-Tutorial Screens
+
+**Tutorial Screens**
 * [x] Required: User can page between the screens
 * [x] Optional: User can page between the screens with updated dots
 * [x] Optional: Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
-Image Timeline
+
+**Image Timeline**
 * [x] Required: Display a scrollable view of images.
 * [x] Required: User can tap on the conversations button to see the conversations screen (push).
 * [x] Required: User can tap on the profile image to see the settings view (modal from below).
-Conversations
+
+**Conversations**
 * [x] Required: User can dismiss the conversations screen
-Settings
+
+**Settings**
 * [x] Required: User can dismiss the settings screen.
 * [x] Required: User can log out
 
